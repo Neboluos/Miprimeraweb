@@ -1,0 +1,35 @@
+/* Configuración general de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Diseño para el título principal */
+h1 {
+    color: #24292e; /* Color oscuro estilo GitHub */
+    font-size: 2.5rem;
+    margin-top: 50px;
+}
+
+/* Estilo para las secciones de contenido */
+section {
+    background-color: rgb(255, 255, 255);
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #d6034d; /* Color azul para subtítulos */
+}
+
+p {
+    line-height: 1.6;
+    color: #666;
+}
