@@ -1,3 +1,6 @@
+# Miprimeraweb
+Aqui estoy construyendo algo
+
 # Comandos basicos de git
 
 ## Conocer el estado de mi work directory
@@ -26,8 +29,34 @@
 
 'git log'
 
+## Agregar repositorio remoto
+
+'git remote add {nombre_remoto} {URL}'
+
+## Verificar mis repositorios remotos
+
+'git remote -v'
+
+## Verificar las ramas de mi repo
+
+'git branch'
+
+## Renombrar una rama de mi repo
+
+'git branch -m [NUEVO_NOMBRE]'
+
 # HTML
 
 ## abreviacion para plantilla HTML
 
 '!' o 'html:5' en un archivo con extension .html
+
+## Etiquetas semánticas
+
+- header 
+- main
+- footer
+- article
+- section
+- nav
+- aside
