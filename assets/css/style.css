@@ -4,3 +4,11 @@ body {
     color: #333;
     padding: 40px;
 }
+
+.noticia-blog__resumen {
+   color: red;
+}
+
+.social-icons svg {
+    width: 48px;
+}
